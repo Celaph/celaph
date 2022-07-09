@@ -4,7 +4,7 @@
   <a href="https://discord.com/users/962874213948088410" target="_blank">
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Send me a DM on Discord">
   </a>
-  <a href="https://www.instagram.com/xaliz_merkel/" target="_blank">
+  <a href="https://www.instagram.com/merkel_xaliz/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-EC3B83?style=for-the-badge&logo=instagram&logoColor=white" alt="Send me a DM on Instagram">
   </a>
     <a href="https://www.reddit.com/user/xaliz_merkel/" target="_blank">
