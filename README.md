@@ -24,7 +24,7 @@
       </a>
     </center>
 
-  - Send me a Direct Message on [Instagram](https://instagram.com): [`xaliz_merkel`](https://instagram.com/xaliz_merkel)
+  - Send me a Direct Message on [Instagram](https://instagram.com): [`merkel_xaliz`](https://instagram.com/merkel_xaliz)
 
 ### 🏆 GitHub Profile Trophy:
 
